@@ -21,7 +21,7 @@ This repository is a complete resource pack, you do not need to add this to vani
 
 Downloading and Usage:
 
-1) Download the latest pack by clicking Download ZIP on the right side of this screen.
+1) Download the latest pack by clicking Download ZIP on the right side of this screen. Unzip the pack to obtain the folder.
 
 2) Run Minecraft, select "Options...", select "Texture Packs", select "Open texture pack folder".
 
