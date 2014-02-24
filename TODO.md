@@ -33,3 +33,41 @@ Thermal Expansion		http://teamcofh.com/ (Partial, needs liquids, GUI's, strongbo
 
 Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Partial, needs decoration blocks and liquids.
 
+A list of quick projects if you would like to make a small contribution. These are not organized in any way, do whatever ones you want/can.
+
+Flesh from Biomes O' Plenty
+
+Mossy Skystone from Biomes O' Plenty
+
+Border Stone from Extra Utilities
+
+Heat Sand from Natura
+
+Heat Glass from Natura
+
+Tainted Soil from Natura
+
+Berry Bushes from Natura
+
+Strengthened Glass from Railcraft
+
+Drawbridge from Tinkers Mechworks
+
+Brownstone from Tinkers Construct
+
+Strongboxes from Thermal Expansion 3
+
+Drum from Extra Utilities
+
+Mob Chunks from DartCraft
+
+Ichorium Tools from Thaumic Tinker
+
+Plates from IC2
+
+Seedbags from IC2
+
+All fluids from Tinkers Construct
+
+
+
