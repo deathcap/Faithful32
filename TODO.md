@@ -4,6 +4,7 @@ Pull requests to expand this list are acceptable provided they are correct and i
 Any mods are welcome on this list, but mods in Feed The Beast packs are focused on.
 Mods are expected to be organized alphanumerically and have some indication of already completed work.
 
+Backpack			http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629/ (Complete, needs restyling)
 
 Chisel				http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/ (Minimal progress)
 
