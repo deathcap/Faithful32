@@ -12,7 +12,7 @@ This means you may use this pack or modify it in any way you see fit. You may no
 
 Faithful with mods support: All textures done in Faithful32 style.
 
-The original Faithful 32x32 Pack can be found here: http://www.minecraftforum.net/topic/72747
+The original Faithful 32x32 Pack can be found here: http://www.minecraftforum.net/topic/72747-faithful-32x32-pack/
 
 The original pack is made by Vattic and a long list of helpers. Please look under the Credits section of his forum post I linked above.
 
