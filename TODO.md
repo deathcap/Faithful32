@@ -48,15 +48,13 @@ Heat Glass from Natura
 
 Tainted Soil from Natura
 
-Berry Bushes from Natura
+Nether Berry Bushes from Natura
 
 Strengthened Glass from Railcraft
 
 Drawbridge from Tinkers Mechworks
 
 Brownstone from Tinkers Construct
-
-Strongboxes from Thermal Expansion 3
 
 Drum from Extra Utilities
 
@@ -69,6 +67,22 @@ Plates from IC2
 Seedbags from IC2
 
 All fluids from Tinkers Construct
+
+Gregtech Plate Bending Machine GUI
+
+Gregtech Alloy Smelter GUI
+
+Gregtech Automatic Wiremill GUI
+
+Seeds from Natura
+
+Essence Dust from Magical Crops
+
+Energium Dust from IC2
+
+Sonic Glasses from OpenBlocks
+
+
 
 
 
