@@ -74,10 +74,6 @@ Gregtech Alloy Smelter GUI
 
 Gregtech Automatic Wiremill GUI
 
-Seeds from Natura
-
-Essence Dust from Magical Crops
-
 Energium Dust from IC2
 
 Sonic Glasses from OpenBlocks
