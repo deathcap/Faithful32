@@ -73,12 +73,3 @@ Gregtech Plate Bending Machine GUI
 Gregtech Alloy Smelter GUI
 
 Gregtech Automatic Wiremill GUI
-
-Energium Dust from IC2
-
-Sonic Glasses from OpenBlocks
-
-
-
-
-
