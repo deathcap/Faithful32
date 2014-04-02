@@ -24,13 +24,13 @@ Metallurgy			http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-p
 
 Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Some progress, lots more to complete)
 
-OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (No progress)
+OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (Some progress, lots more to complete)
 
 Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods-powerconverters-alpha-builds/ (Some progress)
 
 Project Red			http://projectredwiki.com/wiki/Main_Page (Some progress, lots more to complete)
 
-Thermal Expansion		http://teamcofh.com/ (Partial, needs liquids, GUI's, strongboxes)
+Thermal Expansion		http://teamcofh.com/ (Partial, needs tesseracts)
 
 Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Partial, needs decoration blocks and liquids.
 
