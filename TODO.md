@@ -30,7 +30,7 @@ Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods
 
 Project Red			http://projectredwiki.com/wiki/Main_Page (Some progress, lots more to complete)
 
-Thermal Expansion		http://teamcofh.com/ (Partial, needs tesseracts)
+Thermal Expansion		http://teamcofh.com/ (Partial, needs some liquids)
 
 Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Partial, needs decoration blocks and liquids.
 
