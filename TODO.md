@@ -24,7 +24,7 @@ Metallurgy			http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-p
 
 Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Some progress, lots more to complete)
 
-OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (Some progress, lots more to complete)
+OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (Lots of progress, a bit more to complete)
 
 Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods-powerconverters-alpha-builds/ (Some progress)
 
@@ -42,15 +42,9 @@ Mossy Skystone from Biomes O' Plenty
 
 Border Stone from Extra Utilities
 
-Heat Sand from Natura
-
 Heat Glass from Natura
 
-Tainted Soil from Natura
-
 Nether Berry Bushes from Natura
-
-Strengthened Glass from Railcraft
 
 Drawbridge from Tinkers Mechworks
 
