@@ -67,3 +67,5 @@ Gregtech Plate Bending Machine GUI
 Gregtech Alloy Smelter GUI
 
 Gregtech Automatic Wiremill GUI
+
+Minefactory Reloaded Rednet Cable
